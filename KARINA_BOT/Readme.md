@@ -1,6 +1,6 @@
-# Node Telegram Bot Subscription Checker
+# Node Telegram Bot Reminder
 
-Just a simple bot to check subscription.
+Just a simple bot to remind about pills.
 
 ---
 ## Requirements
